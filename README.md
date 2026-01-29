@@ -135,7 +135,7 @@ const narendar = {
 
   
 <div align="center">
-   <img src="https://raw.githubusercontent.com/narendar9888/narendar9888/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
+   <img src="https://raw.githubusercontent.com/narendar9888/.github/workflows/snake.yml/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
 </div>
 
 

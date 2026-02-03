@@ -26,7 +26,7 @@ const narendar = {
     location: "India 🇮🇳",
     education: "Rishihood University - NST-RU'29",
     currentFocus: "Frontend Development & AI Integration",
-    languages: ["JavaScript", "Python", "Java", "HTML", "CSS"],
+    languages: ["JavaScript", "Python", "HTML", "CSS"],
     frameworks: ["React.js", "Node.js"],
     learningGoal: "Building innovative AI-powered applications",
     funFact: "I turn coffee ☕ into code 💻"

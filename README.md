@@ -98,8 +98,8 @@ const narendar = {
 
 <div align="center">
 
-[![Portfolio](https://narendar9888.github.io/Portfolio/)](https://github.com/narendar9888/Portfolio)]
-[![Calculator](https://narendar9888.github.io/Calculator/)]
+[![Portfolio](https://narendar9888.github.io/Portfolio/)
+[![Calculator](https://narendar9888.github.io/Calculator/)
 
 </div>
 

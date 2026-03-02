@@ -98,8 +98,8 @@ const narendar = {
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=narendar9888&repo=Portfolio&theme=radical&hide_border=true)](https://github.com/narendar9888/Portfolio)
-[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=narendar9888&repo=Calculator&theme=radical&hide_border=true)](https://github.com/narendar9888/Calculator)
+[![Portfolio](https://narendar9888.github.io/Portfolio/)](https://github.com/narendar9888/Portfolio)
+[![Calculator](https://narendar9888.github.io/Calculator/)
 
 </div>
 

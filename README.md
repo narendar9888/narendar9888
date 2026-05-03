@@ -100,8 +100,6 @@ const narendar = {
 
 
 
-[![Portfolio](https://narendar9888.github.io/Portfolio/)
-[![Calculator](https://narendar9888.github.io/Calculator/)
 
 </div>
 

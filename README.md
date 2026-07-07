@@ -1,5 +1,4 @@
 <div align="center">
-
 # 👋 Hi, I'm Narendar Kumar
 
 ### 🚀 Passionate Frontend Developer | 🎓 Student at Rishihood University | 💻 Building the Web
